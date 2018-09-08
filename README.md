@@ -11,7 +11,7 @@
 * -rs/--regexsearch	: regex search, input valid regex to search for in log element
 * -fe/--frontend    : edit frontend printing this has to be valid python for now
 
-##example
+## example
 
 ``python logpye.py -f core.log -as joystick``
 
